@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1155e4ea-6d23-44c4-bab1-f01ca05ce2f9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1k6SiWaAW0fhFvd1YIs2HYR0Udh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb&#10;mysql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../statb" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1155e4ea-6d23-44c4-bab1-f01ca05ce2f9" name="Default Changelist" comment="" />
+      <created>1605019675716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605019675716</updated>
+      <workItem from="1605019685860" duration="4396000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="420" y="179" key="#CLI_Interpreters" timestamp="1605021567446">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="420" y="179" key="#CLI_Interpreters/0.0.1680.1050@0.0.1680.1050" timestamp="1605021567446" />
+    <state x="429" y="263" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605024085732">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="429" y="263" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1605024085732" />
+    <state x="620" y="279" key="FileChooserDialogImpl" timestamp="1605022479647">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="620" y="279" key="FileChooserDialogImpl/0.0.1680.1050@0.0.1680.1050" timestamp="1605022479647" />
+    <state x="341" y="169" key="SettingsEditor" timestamp="1605021569648">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="169" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1605021569648" />
+  </component>
+</project>
