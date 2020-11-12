@@ -1,6 +1,7 @@
 
 ###> symfony/framework-bundle ###
 /.env.local
+/.env.test
 /.env.local.php
 /.env.*.local
 /config/secrets/prod/prod.decrypt.private.php
@@ -16,3 +17,5 @@
 ###< symfony/phpunit-bridge ###
 /public/uploads/
 /.idea/
+/.env
+/composer.lock
